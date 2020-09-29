@@ -1,5 +1,32 @@
+body{
+  
+}
+
+Main{
+  background-color: white;
+}
 .hey{
   color: white;
-  background-color: blue;
+  background-color: rgb(53, 53, 145);
+  border: black solid;
+  text-align: center;
+  font-size: 35px;
+  font-family: monospace;
+
+}
+.designers{
+  font-weight: bold;
+  border-top: steelblue, 5px;
+}
+.text-paragraph{
+  display: inline-block;
+  width: 150px;
+  height: 50px;
   
+  
+}
+
+footer{
+  border:solid 50px;;
+  color: rgb(53, 53, 145);
 }
